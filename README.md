@@ -1,5 +1,7 @@
 # springbatch
 
+161220065 李承勉
+
 在pom.xml中添加了一些dependency，解决无法解析一些包的问题。
 
 替换了writer，使之写成一个json文件。
