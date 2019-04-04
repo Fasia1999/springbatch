@@ -1,0 +1,27 @@
+{
+ "reports":{
+  "record":[
+   {
+    "id":"1001",
+    "sales":"213100",
+    "qty":"980",
+    "staffname":"staff 0",
+    "date":"Mon Jul 29 00:00:00 CST 2013"
+   },
+   {
+    "id":"1002",
+    "sales":"320200",
+    "qty":"1080",
+    "staffname":"staff 1",
+    "date":"Tue Jul 30 00:00:00 CST 2013"
+   },
+   {
+    "id":"1003",
+    "sales":"342197",
+    "qty":"1200",
+    "staffname":"staff 2",
+    "date":"Wed Jul 31 00:00:00 CST 2013"
+   }
+  ]
+ }
+}
